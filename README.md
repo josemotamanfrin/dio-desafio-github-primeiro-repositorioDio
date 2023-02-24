@@ -1,5 +1,5 @@
 # Desafio repositorio Dio
-Desafio de projeto Git/GitHub
+Repositorio criado para Desafio de projeto Git/GitHub
 
 # Sintaxe basica Markdown 
 Link :
